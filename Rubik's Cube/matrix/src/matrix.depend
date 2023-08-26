@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1591007991 source:d:\vikram\rubik's cube\matrix\src\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<iostream>
+	<sstream>
+	<iomanip>
+	"Matrices.h"
+	"Vectors.h"
+
+1426371328 d:\vikram\rubik's cube\matrix\src\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426371328 d:\vikram\rubik's cube\matrix\src\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1585325934 d:\vikram\rubik's cube\matrix\src\matrices.h
+	<iostream>
+	<iomanip>
+	"Vectors.h"
+
+1510158724 d:\vikram\rubik's cube\matrix\src\vectors.h
+	<cmath>
+	<iostream>
+
+1585325980 source:d:\vikram\rubik's cube\matrix\src\matrices.cpp
+	<cmath>
+	<algorithm>
+	"Matrices.h"
+

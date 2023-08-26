@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1565711008 source:c:\users\best buy\downloads\vikram\idk\main.cpp
+	"turtle.h"
+
+1565538643 c:\users\best buy\downloads\vikram\idk\ball.h
+	<SDL2/SDL.h>
+
+1565538950 source:c:\users\best buy\downloads\vikram\idk\ball.cpp
+	"ball.h"
+
+1565860743 source:c:\users\best buy\downloads\vikram\idk\turtle.cpp
+	"turtle.h"
+
+1565714043 c:\users\best buy\downloads\vikram\idk\turtle.h
+	<SDL2/SDL.h>
+
+1567925194 source:c:\users\best buy\downloads\vikram\turtle\idk\turtle.cpp
+	"turtle.h"
+	<iostream>
+
+1565714043 c:\users\best buy\downloads\vikram\turtle\idk\turtle.h
+	<SDL2/SDL.h>
+
+1567924938 source:c:\users\best buy\downloads\vikram\turtle\idk\main.cpp
+	"turtle.h"
+
+1567925314 source:g:\vikram\turtle\idk\main.cpp
+	"turtle.h"
+
+1565714043 g:\vikram\turtle\idk\turtle.h
+	<SDL2/SDL.h>
+
+1567925314 source:g:\vikram\turtle\idk\turtle.cpp
+	"turtle.h"
+
+1576303044 source:d:\vikram\turtle\idk\main.cpp
+	"turtle.h"
+
+1576303031 d:\vikram\turtle\idk\turtle.h
+	<SDL2/SDL.h>
+
+1576303031 source:d:\vikram\turtle\idk\turtle.cpp
+	"turtle.h"
+
+1576303044 source:d:\vikram\cb\fun\idk 2\idk\main.cpp
+	"turtle.h"
+
+1576303031 d:\vikram\cb\fun\idk 2\idk\turtle.h
+	<SDL2/SDL.h>
+
+1576303031 source:d:\vikram\cb\fun\idk 2\idk\turtle.cpp
+	"turtle.h"
+

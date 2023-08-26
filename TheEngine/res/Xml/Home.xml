@@ -1,0 +1,11 @@
+<Page ID = @Id_Home>
+    <Button>
+        <ID = @Id_ok />
+        <XPos = 100 />
+        <YPos = 100 />
+        <Width 100 />
+        <Height = 50 />
+        <Text = OK />
+        <ImageSource></ImageSource>
+    </Button>
+</Page>

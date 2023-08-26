@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1589777884 source:d:\vikram\engine\glutil.cpp
+	"Glutil.h"
+
+1589790630 d:\vikram\engine\glutil.h
+	<windows.h>
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<GL/glu.h>
+	"RenderMaths.h"
+
+1589786740 source:d:\vikram\engine\winmain.cpp
+	"Engine.h"
+
+1589791789 d:\vikram\engine\glapp.h
+	"Glutil.h"
+
+1589791266 source:d:\vikram\engine\glapp.cpp
+	"GLApp.h"
+
+1589793202 source:d:\vikram\engine\main.cpp
+	"Engine.h"
+
+1589786467 d:\vikram\engine\engine.h
+	"GLApp.h"
+	"Engine_main.h"
+
+1589786740 d:\vikram\engine\engine_main.h
+
+1589791809 source:d:\vikram\engine\render.cpp
+	"GLApp.h"
+
+1589791789 d:\vikram\engine\rendermaths.h
+
+1589787666 source:d:\vikram\cb\attemp to make engine\engine\glapp.cpp
+	"GLApp.h"
+
+1589788189 d:\vikram\cb\attemp to make engine\engine\glapp.h
+	"Glutil.h"
+
+1589787030 d:\vikram\cb\attemp to make engine\engine\glutil.h
+	<windows.h>
+	<string>
+	<sstream>
+	<GL/gl.h>
+	<GL/glu.h>
+	"RenderMaths.h"
+
+1589788189 d:\vikram\cb\attemp to make engine\engine\rendermaths.h
+
+1589774284 source:d:\vikram\cb\attemp to make engine\engine\glutil.cpp
+	"Glutil.h"
+
+1589789602 source:d:\vikram\cb\attemp to make engine\engine\main.cpp
+	"Engine.h"
+
+1589782867 d:\vikram\cb\attemp to make engine\engine\engine.h
+	"GLApp.h"
+	"Engine_main.h"
+
+1589783140 d:\vikram\cb\attemp to make engine\engine\engine_main.h
+
+1589788209 source:d:\vikram\cb\attemp to make engine\engine\render.cpp
+	"GLApp.h"
+
+1589783140 source:d:\vikram\cb\attemp to make engine\engine\winmain.cpp
+	"Engine.h"
+

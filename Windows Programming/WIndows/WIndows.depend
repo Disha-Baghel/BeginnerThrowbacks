@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589274075 source:d:\vikram\windows\main.cpp
+	<windows.h>
+
+1589617258 source:d:\vikram\windows programming\windows\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+

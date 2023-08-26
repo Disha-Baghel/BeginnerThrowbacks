@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1587705046 source:d:\vikram\solar system\main.cpp
+	"Engine.h"
+
+1587705045 d:\vikram\solar system\src\engine\engine.h
+	<SDL2/SDL.h>
+
+1587773223 source:d:\vikram\solar system\src\engine\engine.cpp
+	"Engine.h"
+	"Planet/Planet.h"
+	"Sun/Sun.h"
+
+1587705461 source:d:\vikram\solar system\src\vector\vec2d.cpp
+	"Vec2d.h"
+
+1587708975 d:\vikram\solar system\src\vector\vec2d.h
+	<cmath>
+
+1587706234 source:d:\vikram\solar system\src\planet\planet.cpp
+	"Planet.h"
+
+1587706221 d:\vikram\solar system\src\planet\planet.h
+	"Vec2d.h"
+	<SDL2/SDL.h>
+
+1587765445 source:d:\vikram\solar system\src\body\sun\sun.cpp
+	"Sun.h"
+
+1587765445 d:\vikram\solar system\src\body\sun\sun.h
+	"Body.h"
+	"Planet/Planet.h"
+
+1587765445 source:d:\vikram\solar system\src\body\planet\planet.cpp
+	"Planet.h"
+
+1587765446 d:\vikram\solar system\src\body\planet\planet.h
+	"Body.h"
+	<vector>
+
+1587766919 d:\vikram\solar system\src\body\body.h
+	<SDL2/SDL.h>
+	"Vec2d.h"
+
+1587765445 source:d:\vikram\solar system\src\body\body.cpp
+
+1587765446 source:d:\vikram\solar system\src\body\moon\moon.cpp
+	"Moon.h"
+
+1587765445 d:\vikram\solar system\src\body\moon\moon.h
+	"Body.h"
+
+1587705046 source:d:\vikram\nature of code\solar system\main.cpp
+	"Engine.h"
+
+1588050447 d:\vikram\nature of code\solar system\src\engine\engine.h
+	<SDL2/SDL.h>
+
+1587765445 source:d:\vikram\nature of code\solar system\src\body\body.cpp
+
+1587765446 source:d:\vikram\nature of code\solar system\src\body\moon\moon.cpp
+	"Moon.h"
+
+1587765445 d:\vikram\nature of code\solar system\src\body\moon\moon.h
+	"Body.h"
+
+1590792141 d:\vikram\nature of code\solar system\src\body\body.h
+	<SDL2/SDL.h>
+	"Vec2d.h"
+
+1587708975 d:\vikram\nature of code\solar system\src\vector\vec2d.h
+	<cmath>
+
+1590792544 source:d:\vikram\nature of code\solar system\src\body\planet\planet.cpp
+	"Planet.h"
+
+1587970567 d:\vikram\nature of code\solar system\src\body\planet\planet.h
+	"Body.h"
+	<deque>
+
+1587971355 source:d:\vikram\nature of code\solar system\src\body\sun\sun.cpp
+	"Sun.h"
+
+1587971355 d:\vikram\nature of code\solar system\src\body\sun\sun.h
+	"Body.h"
+	"Planet/Planet.h"
+
+1590792141 source:d:\vikram\nature of code\solar system\src\engine\engine.cpp
+	"Engine.h"
+	"Planet/Planet.h"
+	"Sun/Sun.h"
+
+1587705461 source:d:\vikram\nature of code\solar system\src\vector\vec2d.cpp
+	"Vec2d.h"
+
+1587970885 source:d:\vikram\nature of code\solar system\src\image\image.cpp
+	"Image.h"
+
+1587970858 d:\vikram\nature of code\solar system\src\image\image.h
+	<string>
+	<map>
+	<SDL2/SDL_image.h>
+
+1587701446 source:d:\vikram\cb\nature of code\solar system\main.cpp
+	"Engine.h"
+
+1588046847 d:\vikram\cb\nature of code\solar system\src\engine\engine.h
+	<SDL2/SDL.h>
+
+1587761845 source:d:\vikram\cb\nature of code\solar system\src\body\body.cpp
+
+1587761846 source:d:\vikram\cb\nature of code\solar system\src\body\moon\moon.cpp
+	"Moon.h"
+
+1587761845 d:\vikram\cb\nature of code\solar system\src\body\moon\moon.h
+	"Body.h"
+
+1590788541 d:\vikram\cb\nature of code\solar system\src\body\body.h
+	<SDL2/SDL.h>
+	"Vec2d.h"
+
+1587705375 d:\vikram\cb\nature of code\solar system\src\vector\vec2d.h
+	<cmath>
+
+1590788944 source:d:\vikram\cb\nature of code\solar system\src\body\planet\planet.cpp
+	"Planet.h"
+
+1587966967 d:\vikram\cb\nature of code\solar system\src\body\planet\planet.h
+	"Body.h"
+	<deque>
+
+1587967755 source:d:\vikram\cb\nature of code\solar system\src\body\sun\sun.cpp
+	"Sun.h"
+
+1587967755 d:\vikram\cb\nature of code\solar system\src\body\sun\sun.h
+	"Body.h"
+	"Planet/Planet.h"
+
+1590788541 source:d:\vikram\cb\nature of code\solar system\src\engine\engine.cpp
+	"Engine.h"
+	"Planet/Planet.h"
+	"Sun/Sun.h"
+
+1587701861 source:d:\vikram\cb\nature of code\solar system\src\vector\vec2d.cpp
+	"Vec2d.h"
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1594314239 source:d:\vikram\server\server.cpp
+	<windows.h>
+	<winsock2.h>
+	<stdlib.h>
+	<thread>
+	<iostream>
+

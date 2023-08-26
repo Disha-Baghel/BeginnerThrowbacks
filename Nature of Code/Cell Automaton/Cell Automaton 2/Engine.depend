@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1586482899 source:d:\vikram\engine\cell automaton\cell automaton 2\engine.cpp
+	"Engine.h"
+	<iostream>
+
+1586482899 d:\vikram\engine\cell automaton\cell automaton 2\engine.h
+	<SDL2/SDL.h>
+	<vector>
+	"Image.h"
+	"MathsVector.h"
+
+1586416933 d:\vikram\engine\cell automaton\cell automaton 2\image.h
+	<SDL2/SDL_image.h>
+
+1586399213 d:\vikram\engine\cell automaton\cell automaton 2\mathsvector.h
+
+1586489690 source:d:\vikram\engine\cell automaton\cell automaton 2\game.cpp
+	"Game.h"
+	<iostream>
+	<stdlib.h>
+
+1586489700 d:\vikram\engine\cell automaton\cell automaton 2\game.h
+	"Engine.h"
+	"cell.h"
+
+1586489353 d:\vikram\engine\cell automaton\cell automaton 2\cell.h
+	"Engine.h"
+
+1586416933 source:d:\vikram\engine\cell automaton\cell automaton 2\image.cpp
+	"Image.h"
+
+1586304394 source:d:\vikram\engine\cell automaton\cell automaton 2\main.cpp
+	"Game.h"
+
+1586399213 source:d:\vikram\engine\cell automaton\cell automaton 2\mathsvector.cpp
+	"MathsVector.h"
+	<cmath>
+
+1586482899 source:d:\vikram\nature of code\cell automaton\cell automaton 2\engine.cpp
+	"Engine.h"
+	<iostream>
+
+1586482899 d:\vikram\nature of code\cell automaton\cell automaton 2\engine.h
+	<SDL2/SDL.h>
+	<vector>
+	"Image.h"
+	"MathsVector.h"
+
+1586416933 d:\vikram\nature of code\cell automaton\cell automaton 2\image.h
+	<SDL2/SDL_image.h>
+
+1586399213 d:\vikram\nature of code\cell automaton\cell automaton 2\mathsvector.h
+
+1586489690 source:d:\vikram\nature of code\cell automaton\cell automaton 2\game.cpp
+	"Game.h"
+	<iostream>
+	<stdlib.h>
+
+1586489700 d:\vikram\nature of code\cell automaton\cell automaton 2\game.h
+	"Engine.h"
+	"cell.h"
+
+1586489353 d:\vikram\nature of code\cell automaton\cell automaton 2\cell.h
+	"Engine.h"
+
+1586416933 source:d:\vikram\nature of code\cell automaton\cell automaton 2\image.cpp
+	"Image.h"
+
+1586304394 source:d:\vikram\nature of code\cell automaton\cell automaton 2\main.cpp
+	"Game.h"
+
+1586399213 source:d:\vikram\nature of code\cell automaton\cell automaton 2\mathsvector.cpp
+	"MathsVector.h"
+	<cmath>
+

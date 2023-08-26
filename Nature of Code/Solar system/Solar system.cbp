@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Solar system" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Solar system" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="src/Engine" />
+					<Add directory="src/Planet" />
+					<Add directory="src/Vector" />
+					<Add directory="src/Sun" />
+					<Add directory="src/Body" />
+					<Add directory="src/Body/Moon" />
+					<Add directory="src/Image" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Solar system" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="src/Engine" />
+					<Add directory="src/Planet" />
+					<Add directory="src/Vector" />
+					<Add directory="src/Sun" />
+					<Add directory="src/Body" />
+					<Add directory="src/Body/Moon" />
+					<Add directory="src/Image" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Main.cpp" />
+		<Unit filename="src/Body/Body.cpp" />
+		<Unit filename="src/Body/Body.h" />
+		<Unit filename="src/Body/Moon/Moon.cpp" />
+		<Unit filename="src/Body/Moon/Moon.h" />
+		<Unit filename="src/Body/Planet/Planet.cpp" />
+		<Unit filename="src/Body/Planet/Planet.h" />
+		<Unit filename="src/Body/Sun/Sun.cpp" />
+		<Unit filename="src/Body/Sun/Sun.h" />
+		<Unit filename="src/Engine/Engine.cpp" />
+		<Unit filename="src/Engine/Engine.h" />
+		<Unit filename="src/Vector/Vec2d.cpp" />
+		<Unit filename="src/Vector/Vec2d.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1592385714 source:d:\vikram\opengl\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<math.h>
+	"Shader.h"
+
+1592387622 
+
+1592156666 source:d:\vikram\opengl\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1592156666 
+
+1592347858 source:d:\vikram\opengl\shader.cpp
+	"Shader.h"
+
+1592387622 d:\vikram\opengl\shader.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1592156666 source:/media/vikram/New Volume1/vikram/OpenGL/opengl 1/glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1592385714 source:/media/vikram/New Volume1/vikram/OpenGL/opengl 1/main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<math.h>
+	"Shader.h"
+
+1592387622 /media/vikram/New Volume1/vikram/OpenGL/opengl 1/Shader.h
+	<glad/glad.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
+1592387658 source:/media/vikram/New Volume1/vikram/OpenGL/opengl 1/Shader.cpp
+	"Shader.h"
+

@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1585970785 source:d:\vikram\engine_3d\main.cpp
+	"Engine_3d.h"
+
+1585967185 .h"
+
+1585033150 d:\vikram\engine_3d\engine_3d.h
+	<SDL2/SDL.h>
+	"object.h"
+
+1585028163 
+
+1585553644 source:d:\vikram\engine_3d\engine_3d.cpp
+	<iostream>
+	"Engine_3d.h"
+
+1584512417 d:\vikram\engine_3d\color_macros.h
+
+1585970823 source:d:\vikram\engine_3d\matrix.cpp
+	"matrix.h"
+	<cmath>
+
+1585031763 source:d:\vikram\engine_3d\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1585970438 d:\vikram\engine_3d\matrix.h
+
+1585971177 source:d:\vikram\engine_3d\object.cpp
+	"object.h"
+
+1585033807 d:\vikram\engine_3d\object.h
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"matrix.h"
+	"Triangle.h"
+
+1585030207 h"
+
+1585966062 d:\vikram\engine_3d\triangle.h
+	<SDL2/SDL.h>
+
+1585962462 h>
+
+1585550044 source:d:\vikram\cb\attemp to make engine\engine_3d\engine_3d.cpp
+	<iostream>
+	"Engine_3d.h"
+
+1585029550 d:\vikram\cb\attemp to make engine\engine_3d\engine_3d.h
+	<SDL2/SDL.h>
+	"object.h"
+
+1585030207 d:\vikram\cb\attemp to make engine\engine_3d\object.h
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"matrix.h"
+	"Triangle.h"
+
+1585966838 d:\vikram\cb\attemp to make engine\engine_3d\matrix.h
+
+1585962462 d:\vikram\cb\attemp to make engine\engine_3d\triangle.h
+	<SDL2/SDL.h>
+
+1585967185 source:d:\vikram\cb\attemp to make engine\engine_3d\main.cpp
+	"Engine_3d.h"
+
+1585967223 source:d:\vikram\cb\attemp to make engine\engine_3d\matrix.cpp
+	"matrix.h"
+	<cmath>
+
+1585967577 source:d:\vikram\cb\attemp to make engine\engine_3d\object.cpp
+	"object.h"
+
+1585028163 source:d:\vikram\cb\attemp to make engine\engine_3d\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1585550044 source:/mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/Engine_3d.cpp
+	<iostream>
+	"Engine_3d.h"
+
+1585029550 /mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/Engine_3d.h
+	<SDL2/SDL.h>
+	"object.h"
+
+1585030207 /mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/object.h
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	"matrix.h"
+	"Triangle.h"
+
+1585966838 /mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/matrix.h
+
+1585962462 /mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/Triangle.h
+	<SDL2/SDL.h>
+
+1585967185 source:/mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/main.cpp
+	"Engine_3d.h"
+
+1585967223 source:/mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/matrix.cpp
+	"matrix.h"
+	<cmath>
+
+1585967577 source:/mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/object.cpp
+	"object.h"
+
+1585028163 source:/mnt/DACC1FC9CC1F9EB7/vikram/CB/Attemp To Make Engine/Engine_3d/Triangle.cpp
+	"Triangle.h"
+	<iostream>
+

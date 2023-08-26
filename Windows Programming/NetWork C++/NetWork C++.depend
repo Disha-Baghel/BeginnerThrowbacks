@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1587286062 source:d:\vikram\network c++\main.cpp
+	<winsock2.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<locale>
+
+1594317693 source:d:\vikram\cb\windows programming\network c++\main.cpp
+	<winsock2.h>
+	<windows.h>
+	<iostream>
+	<string>
+	<locale>
+
